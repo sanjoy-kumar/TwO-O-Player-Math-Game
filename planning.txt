@@ -1,0 +1,16 @@
+player 1 class calls qs class
+player 2 class calls qs class
+
+BOTH INCLUDES
+
+generate random number class
+
+question class generate random qs by using random number class and add or subtract
+
+user input
+
+the verify answer statement and correct answer
+
+if statement to verify score and print game over or call next player
+
+the score variable on the class and prompt the next player
